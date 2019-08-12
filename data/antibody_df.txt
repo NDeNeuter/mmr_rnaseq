@@ -1,0 +1,121 @@
+	vaccine	vaccinee	0	21	150	365	diff: 21-0	diff: 150-21	diff: 365-150	response	protected	quadrant
+0	Anti-Measles IgG (AU/ml)	M1	5.0	217.0	30.8	31.5	212.0	-186.2	0.6999999999999993	True	True	responder
+1	Anti-Measles IgG (AU/ml)	M11	17.9	30.1	300.0	214.0	12.200000000000003	269.9	-86.0	False	False	no response - low ab
+2	Anti-Measles IgG (AU/ml)	M12	300.0	300.0	300.0	300.0	0.0	0.0	0.0	False	True	no response - high ab
+3	Anti-Measles IgG (AU/ml)	M13	227.0	300.0	236.0	300.0	73.0	-64.0	64.0	False	True	no response - high ab
+4	Anti-Measles IgG (AU/ml)	M14	26.7	261.0	276.0	300.0	234.3	15.0	24.0	True	True	responder
+5	Anti-Measles IgG (AU/ml)	M15	300.0	300.0	300.0	300.0	0.0	0.0	0.0	False	True	no response - high ab
+6	Anti-Measles IgG (AU/ml)	M16	15.3	181.0	72.1	56.9	165.7	-108.9	-15.199999999999996	True	False	responder
+7	Anti-Measles IgG (AU/ml)	M17	113.0	184.0	132.0	145.0	71.0	-52.0	13.0	False	False	no response - low ab
+8	Anti-Measles IgG (AU/ml)	M18	300.0	300.0	300.0	300.0	0.0	0.0	0.0	False	True	no response - high ab
+9	Anti-Measles IgG (AU/ml)	M19	46.7	226.0	81.0	73.9	179.3	-145.0	-7.099999999999994	True	True	responder
+10	Anti-Measles IgG (AU/ml)	M2	48.1	173.0	230.0	119.0	124.9	57.0	-111.0	True	False	responder
+11	Anti-Measles IgG (AU/ml)	M20	48.4	63.6	61.6	40.9	15.200000000000003	-2.0	-20.700000000000003	False	False	no response - low ab
+12	Anti-Measles IgG (AU/ml)	M21	80.6	85.7	119.0	120.0	5.1000000000000085	33.3	1.0	False	False	no response - low ab
+13	Anti-Measles IgG (AU/ml)	M22	52.9	64.0	47.2	66.1	11.100000000000001	-16.799999999999997	18.89999999999999	False	False	no response - low ab
+14	Anti-Measles IgG (AU/ml)	M23	62.0	300.0	300.0	289.0	238.0	0.0	-11.0	True	True	responder
+15	Anti-Measles IgG (AU/ml)	M24	96.3	144.0	242.0	226.0	47.7	98.0	-16.0	False	False	no response - low ab
+16	Anti-Measles IgG (AU/ml)	M25	88.5	81.7	102.0	95.3	-6.799999999999997	20.299999999999997	-6.700000000000003	False	False	no response - low ab
+17	Anti-Measles IgG (AU/ml)	M26	29.4	32.7	27.7	201.0	3.3000000000000043	-5.0000000000000036	173.3	False	False	no response - low ab
+18	Anti-Measles IgG (AU/ml)	M27	118.0	163.0	185.0	157.0	45.0	22.0	-28.0	False	False	no response - low ab
+19	Anti-Measles IgG (AU/ml)	M28	21.8	300.0	149.0	126.0	278.2	-151.0	-23.0	True	True	responder
+20	Anti-Measles IgG (AU/ml)	M29	14.5	51.3	82.2	60.3	36.8	30.900000000000006	-21.900000000000006	False	False	no response - low ab
+21	Anti-Measles IgG (AU/ml)	M3	25.4	41.5	52.7	74.4	16.1	11.200000000000003	21.700000000000003	False	False	no response - low ab
+22	Anti-Measles IgG (AU/ml)	M30	200.0	206.0	174.0	158.0	6.0	-32.0	-16.0	False	True	no response - high ab
+23	Anti-Measles IgG (AU/ml)	M31	126.0	162.0	300.0	300.0	36.0	138.0	0.0	False	False	no response - low ab
+24	Anti-Measles IgG (AU/ml)	M32	205.0	176.0	214.0	199.0	-29.0	38.0	-15.0	False	False	no response - high ab
+25	Anti-Measles IgG (AU/ml)	M33	300.0	300.0	300.0	300.0	0.0	0.0	0.0	False	True	no response - high ab
+26	Anti-Measles IgG (AU/ml)	M34	123.0	161.0	238.0	234.0	38.0	77.0	-4.0	False	False	no response - low ab
+27	Anti-Measles IgG (AU/ml)	M35	256.0	260.0	244.0	261.0	4.0	-16.0	17.0	False	True	no response - high ab
+28	Anti-Measles IgG (AU/ml)	M36	14.7	136.0	176.0	93.6	121.3	40.0	-82.4	True	False	responder
+29	Anti-Measles IgG (AU/ml)	M37	25.1	148.0	192.0	140.0	122.9	44.0	-52.0	True	False	responder
+30	Anti-Measles IgG (AU/ml)	M38	300.0	300.0	300.0	300.0	0.0	0.0	0.0	False	True	no response - high ab
+31	Anti-Measles IgG (AU/ml)	M39	300.0	300.0	300.0	300.0	0.0	0.0	0.0	False	True	no response - high ab
+32	Anti-Measles IgG (AU/ml)	M4	58.9	258.0	300.0	300.0	199.1	42.0	0.0	True	True	responder
+33	Anti-Measles IgG (AU/ml)	M40	234.0	300.0	300.0	300.0	66.0	0.0	0.0	False	True	no response - high ab
+34	Anti-Measles IgG (AU/ml)	M41	300.0	290.0	300.0	300.0	-10.0	10.0	0.0	False	True	no response - high ab
+35	Anti-Measles IgG (AU/ml)	M5	32.0	172.0	265.0	170.0	140.0	93.0	-95.0	True	False	responder
+36	Anti-Measles IgG (AU/ml)	M6	189.0	194.0	194.0	203.0	5.0	0.0	9.0	False	False	no response - low ab
+37	Anti-Measles IgG (AU/ml)	M7	137.0	161.0	300.0		24.0	139.0		False	False	no response - low ab
+38	Anti-Measles IgG (AU/ml)	M8	224.0	248.0	300.0	300.0	24.0	52.0	0.0	False	True	no response - high ab
+39	Anti-Measles IgG (AU/ml)	M9	254.0	220.0	300.0	256.0	-34.0	80.0	-44.0	False	True	no response - high ab
+40	Anti-Mumps IgG (AU/ml)	M1	5.0	124.0	5.66	5.0	119.0	-118.34	-0.6600000000000001	True	False	responder
+41	Anti-Mumps IgG (AU/ml)	M11	11.8	50.5	26.5	12.4	38.7	-24.0	-14.1	False	False	no response - low ab
+42	Anti-Mumps IgG (AU/ml)	M12	51.9	288.0	171.0	183.0	236.1	-117.0	12.0	True	True	responder
+43	Anti-Mumps IgG (AU/ml)	M13	136.0	300.0	248.0	215.0	164.0	-52.0	-33.0	True	True	responder
+44	Anti-Mumps IgG (AU/ml)	M14	121.0	119.0	122.0	156.0	-2.0	3.0	34.0	False	False	no response - low ab
+45	Anti-Mumps IgG (AU/ml)	M15	193.0	269.0	186.0	195.0	76.0	-83.0	9.0	False	True	no response - low ab
+46	Anti-Mumps IgG (AU/ml)	M16	43.0	300.0	300.0	261.0	257.0	0.0	-39.0	True	True	responder
+47	Anti-Mumps IgG (AU/ml)	M17	9.9	300.0	223.0	155.0	290.1	-77.0	-68.0	True	True	responder
+48	Anti-Mumps IgG (AU/ml)	M18	300.0	300.0	300.0	300.0	0.0	0.0	0.0	False	True	no response - high ab
+49	Anti-Mumps IgG (AU/ml)	M19	85.1	227.0	277.0	195.0	141.9	50.0	-82.0	True	True	responder
+50	Anti-Mumps IgG (AU/ml)	M2	118.0	206.0	157.0	108.0	88.0	-49.0	-49.0	False	True	no response - low ab
+51	Anti-Mumps IgG (AU/ml)	M20	42.1	87.7	57.4	51.9	45.6	-30.300000000000004	-5.5	False	False	no response - low ab
+52	Anti-Mumps IgG (AU/ml)	M21	168.0	280.0	300.0	300.0	112.0	20.0	0.0	True	True	responder
+53	Anti-Mumps IgG (AU/ml)	M22	300.0	300.0	300.0	300.0	0.0	0.0	0.0	False	True	no response - high ab
+54	Anti-Mumps IgG (AU/ml)	M23	26.3	83.6	61.2	54.0	57.3	-22.39999999999999	-7.200000000000003	False	False	no response - low ab
+55	Anti-Mumps IgG (AU/ml)	M24	199.0	300.0	292.0	281.0	101.0	-8.0	-11.0	True	True	responder
+56	Anti-Mumps IgG (AU/ml)	M25	300.0	300.0	300.0	300.0	0.0	0.0	0.0	False	True	no response - high ab
+57	Anti-Mumps IgG (AU/ml)	M26	183.0	247.0	196.0	222.0	64.0	-51.0	26.0	False	True	no response - low ab
+58	Anti-Mumps IgG (AU/ml)	M27	300.0	300.0	300.0	300.0	0.0	0.0	0.0	False	True	no response - high ab
+59	Anti-Mumps IgG (AU/ml)	M28	91.4	119.0	114.0	115.0	27.599999999999994	-5.0	1.0	False	False	no response - low ab
+60	Anti-Mumps IgG (AU/ml)	M29	19.3	85.4	116.0	88.1	66.10000000000001	30.599999999999994	-27.900000000000006	False	False	no response - low ab
+61	Anti-Mumps IgG (AU/ml)	M3	300.0	300.0	300.0	300.0	0.0	0.0	0.0	False	True	no response - high ab
+62	Anti-Mumps IgG (AU/ml)	M30	50.4	300.0	300.0	300.0	249.6	0.0	0.0	True	True	responder
+63	Anti-Mumps IgG (AU/ml)	M31	267.0	300.0	300.0	300.0	33.0	0.0	0.0	False	True	no response - high ab
+64	Anti-Mumps IgG (AU/ml)	M32	28.9	80.8	54.8	41.2	51.9	-26.0	-13.599999999999994	False	False	no response - low ab
+65	Anti-Mumps IgG (AU/ml)	M33	107.0	300.0	275.0	220.0	193.0	-25.0	-55.0	True	True	responder
+66	Anti-Mumps IgG (AU/ml)	M34	94.3	154.0	130.0	128.0	59.7	-24.0	-2.0	False	False	no response - low ab
+67	Anti-Mumps IgG (AU/ml)	M35	97.2	222.0	223.0	153.0	124.8	1.0	-70.0	True	True	responder
+68	Anti-Mumps IgG (AU/ml)	M36	92.8	224.0	300.0	175.0	131.2	76.0	-125.0	True	True	responder
+69	Anti-Mumps IgG (AU/ml)	M37	11.2	130.0	300.0	300.0	118.8	170.0	0.0	True	False	responder
+70	Anti-Mumps IgG (AU/ml)	M38	48.6	156.0	300.0	300.0	107.4	144.0	0.0	True	False	responder
+71	Anti-Mumps IgG (AU/ml)	M39	34.5	300.0	171.0	93.4	265.5	-129.0	-77.6	True	True	responder
+72	Anti-Mumps IgG (AU/ml)	M4	300.0	300.0	300.0	300.0	0.0	0.0	0.0	False	True	no response - high ab
+73	Anti-Mumps IgG (AU/ml)	M40	5.0	47.1	36.2	33.3	42.1	-10.899999999999999	-2.9000000000000057	False	False	no response - low ab
+74	Anti-Mumps IgG (AU/ml)	M41	300.0	300.0	300.0	300.0	0.0	0.0	0.0	False	True	no response - high ab
+75	Anti-Mumps IgG (AU/ml)	M5	82.9	252.0	247.0	171.0	169.1	-5.0	-76.0	True	True	responder
+76	Anti-Mumps IgG (AU/ml)	M6	249.0	300.0	300.0	296.0	51.0	0.0	-4.0	False	True	no response - high ab
+77	Anti-Mumps IgG (AU/ml)	M7	122.0	204.0	192.0		82.0	-12.0		False	True	no response - low ab
+78	Anti-Mumps IgG (AU/ml)	M8	15.6	135.0	239.0	184.0	119.4	104.0	-55.0	True	False	responder
+79	Anti-Mumps IgG (AU/ml)	M9	246.0	259.0	276.0	235.0	13.0	17.0	-41.0	False	True	no response - high ab
+80	Anti-Rubella IgG (IU/ml)	M1	5.2	74.2	32.8	22.3	69.0	-41.400000000000006	-10.499999999999996	False	False	no response - low ab
+81	Anti-Rubella IgG (IU/ml)	M11	12.5	69.2	29.2	28.3	56.7	-40.0	-0.8999999999999986	False	False	no response - low ab
+82	Anti-Rubella IgG (IU/ml)	M12	17.4	67.2	43.5	39.3	49.800000000000004	-23.700000000000003	-4.200000000000003	False	False	no response - low ab
+83	Anti-Rubella IgG (IU/ml)	M13	154.0	199.0	173.0	170.0	45.0	-26.0	-3.0	False	False	no response - low ab
+84	Anti-Rubella IgG (IU/ml)	M14	14.1	23.1	15.7	16.5	9.000000000000002	-7.400000000000002	0.8000000000000007	False	False	no response - low ab
+85	Anti-Rubella IgG (IU/ml)	M15	62.5	87.6	58.4	61.7	25.099999999999994	-29.199999999999996	3.3000000000000043	False	False	no response - low ab
+86	Anti-Rubella IgG (IU/ml)	M16	23.3	135.0	75.7	64.7	111.7	-59.3	-11.0	True	False	responder
+87	Anti-Rubella IgG (IU/ml)	M17	31.1	249.0	57.0	43.1	217.9	-192.0	-13.899999999999999	True	True	responder
+88	Anti-Rubella IgG (IU/ml)	M18	47.7	148.0	65.0	67.7	100.3	-83.0	2.700000000000003	True	False	responder
+89	Anti-Rubella IgG (IU/ml)	M19	67.7	260.0	84.6	97.0	192.3	-175.4	12.400000000000006	True	True	responder
+90	Anti-Rubella IgG (IU/ml)	M2	14.5	84.0	32.2	22.6	69.5	-51.8	-9.600000000000001	False	False	no response - low ab
+91	Anti-Rubella IgG (IU/ml)	M20	29.4	76.5	41.9	33.6	47.1	-34.6	-8.299999999999997	False	False	no response - low ab
+92	Anti-Rubella IgG (IU/ml)	M21	61.0	194.0	102.0	74.5	133.0	-92.0	-27.5	True	False	responder
+93	Anti-Rubella IgG (IU/ml)	M22	0.2	5.64	61.2	46.0	5.4399999999999995	55.56	-15.200000000000003	False	False	no response - low ab
+94	Anti-Rubella IgG (IU/ml)	M23	25.3	80.1	46.7	40.6	54.8	-33.39999999999999	-6.100000000000001	False	False	no response - low ab
+95	Anti-Rubella IgG (IU/ml)	M24	41.2	88.4	57.8	56.8	47.2	-30.60000000000001	-1.0	False	False	no response - low ab
+96	Anti-Rubella IgG (IU/ml)	M25	72.7	196.0	123.0	110.0	123.3	-73.0	-13.0	True	False	responder
+97	Anti-Rubella IgG (IU/ml)	M26	69.9	107.0	80.8	120.0	37.099999999999994	-26.200000000000003	39.2	False	False	no response - low ab
+98	Anti-Rubella IgG (IU/ml)	M27	42.7	175.0	78.9	72.4	132.3	-96.1	-6.5	True	False	responder
+99	Anti-Rubella IgG (IU/ml)	M28	26.7	49.1	23.6	33.3	22.400000000000002	-25.5	9.699999999999996	False	False	no response - low ab
+100	Anti-Rubella IgG (IU/ml)	M29	40.0	230.0	199.0	156.0	190.0	-31.0	-43.0	True	True	responder
+101	Anti-Rubella IgG (IU/ml)	M3	29.2	144.0	79.2	67.6	114.8	-64.8	-11.600000000000009	True	False	responder
+102	Anti-Rubella IgG (IU/ml)	M30	19.3	81.0	42.0	37.0	61.7	-39.0	-5.0	False	False	no response - low ab
+103	Anti-Rubella IgG (IU/ml)	M31	37.2	169.0	85.0	86.4	131.8	-84.0	1.4000000000000057	True	False	responder
+104	Anti-Rubella IgG (IU/ml)	M32	45.8	113.0	51.7	49.2	67.2	-61.3	-2.5	False	False	no response - low ab
+105	Anti-Rubella IgG (IU/ml)	M33	54.4	86.0	72.0	70.4	31.6	-14.0	-1.5999999999999943	False	False	no response - low ab
+106	Anti-Rubella IgG (IU/ml)	M34	77.1	112.0	85.9	80.2	34.900000000000006	-26.099999999999994	-5.700000000000003	False	False	no response - low ab
+107	Anti-Rubella IgG (IU/ml)	M35	8.67	46.1	16.0	11.9	37.43	-30.1	-4.1	False	False	no response - low ab
+108	Anti-Rubella IgG (IU/ml)	M36	39.1	62.4	44.7	43.1	23.299999999999997	-17.699999999999996	-1.6000000000000014	False	False	no response - low ab
+109	Anti-Rubella IgG (IU/ml)	M37	28.2	67.5	44.4	42.6	39.3	-23.1	-1.7999999999999972	False	False	no response - low ab
+110	Anti-Rubella IgG (IU/ml)	M38	41.3	63.8	50.1	44.7	22.5	-13.699999999999996	-5.399999999999999	False	False	no response - low ab
+111	Anti-Rubella IgG (IU/ml)	M39	12.9	182.0	40.6	30.3	169.1	-141.4	-10.3	True	False	responder
+112	Anti-Rubella IgG (IU/ml)	M4	33.1	56.1	53.1	46.0	23.0	-3.0	-7.100000000000001	False	False	no response - low ab
+113	Anti-Rubella IgG (IU/ml)	M40	10.7	42.3	22.0	17.4	31.599999999999998	-20.299999999999997	-4.600000000000001	False	False	no response - low ab
+114	Anti-Rubella IgG (IU/ml)	M41	187.0	190.0	177.0	205.0	3.0	-13.0	28.0	False	False	no response - low ab
+115	Anti-Rubella IgG (IU/ml)	M5	28.5	95.4	46.6	40.6	66.9	-48.800000000000004	-6.0	False	False	no response - low ab
+116	Anti-Rubella IgG (IU/ml)	M6	29.3	48.1	49.2	41.8	18.8	1.1000000000000014	-7.400000000000006	False	False	no response - low ab
+117	Anti-Rubella IgG (IU/ml)	M7	49.9	134.0	91.9		84.1	-42.099999999999994		False	False	no response - low ab
+118	Anti-Rubella IgG (IU/ml)	M8	28.5	78.0	66.8	67.3	49.5	-11.200000000000003	0.5	False	False	no response - low ab
+119	Anti-Rubella IgG (IU/ml)	M9	116.0	164.0	121.0	120.0	48.0	-43.0	-1.0	False	False	no response - low ab
